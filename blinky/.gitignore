@@ -1,0 +1,11 @@
+# Build output (CubeIDE regenerates these)
+Debug/
+Release/
+
+# Compiler leftovers, in case they end up elsewhere
+*.o
+*.d
+*.elf
+*.map
+*.list
+*.su
